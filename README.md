@@ -22,7 +22,7 @@ To get started with the Crypto App, follow these instructions:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/hanifdamarjati20/crypto-app-2
+git clone https://github.com/zamzasalim/slp-app.git
 ```
 2. Change into the project directory:
 ```bash
