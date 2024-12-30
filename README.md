@@ -1,10 +1,10 @@
-# Crypto App ASC 2.0
+## Crypto App ASC 2.0
 
 This is a simple React-based Crypto App that allows you to view and search for information on the top 100 cryptocurrencies. The app provides various functionalities, including listing the first 100 coins, searching for specific coins, refreshing the data without reloading the page, and displaying detailed information for each coin.
 
 [![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
 
-## Table of Contents
+### Table of Contents
 
 - [Getting Started](#getting-started)
 - [Features](#features)
@@ -13,9 +13,10 @@ This is a simple React-based Crypto App that allows you to view and search for i
 - [Usage](#usage)
 - [Powered By](#powered-by)
 - [Contributing](#contributing)
+- [Credit](#credit)
 - [License](#license)
 
-## Getting Started
+### Getting Started
 
 To get started with the Crypto App, follow these instructions:
 
@@ -24,18 +25,25 @@ To get started with the Crypto App, follow these instructions:
 ```bash
 git clone https://github.com/zamzasalim/slp-app.git
 ```
+
 2. Change into the project directory:
+
 ```bash
 cd slp-app
 ```
+
 3. Install the required dependencies:
+
 ```
 npm install
 ```
+
 4. Start the development server:
+   
 ```
 npm start
 ```
+
 Once the server is up and running, you can access the app by visiting [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ## Features
