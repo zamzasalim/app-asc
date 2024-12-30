@@ -76,5 +76,5 @@ Build for Test Deployment on [Arlink](https://arlink.arweave.net)  & Visit the [
 The Crypto App is powered by the CoinGecko API, which provides the latest cryptocurrency data and market information.
 
 ### Credit
-This project was inspired by or based on
-[Crypto App](https://github.com/Moslihbadr/crypto-app) by [Moslih Badr](https://github.com/Moslihbadr). This project provides the foundation for cryptocurrency-related features in my app. 
+This project was inspired based on
+[Crypto App](https://github.com/Moslihbadr/crypto-app) & rebuilt with ♡ by hnfdm. This project provides the foundation for cryptocurrency-related features in my app. 
