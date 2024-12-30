@@ -26,7 +26,7 @@ git clone https://github.com/zamzasalim/slp-app.git
 ```
 2. Change into the project directory:
 ```bash
-cd crypto-app-2
+cd slp-app
 ```
 3. Install the required dependencies:
 ```
