@@ -12,9 +12,7 @@ This is a simple React-based Crypto App that allows you to view and search for i
 - [Live View](#live-view)
 - [Usage](#usage)
 - [Powered By](#powered-by)
-- [Contributing](#contributing)
 - [Credit](#credit)
-- [License](#license)
 
 ### Getting Started
 To get started with the Crypto App, follow these instructions:
@@ -77,12 +75,6 @@ Build for Test Deployment on [Arlink](https://arlink.arweave.net)  & Visit the [
 ### Powered By
 The Crypto App is powered by the CoinGecko API, which provides the latest cryptocurrency data and market information.
 
-### Contributing
-Contributions to the Crypto App are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ### Credit
 This project was inspired by or based on
 [Crypto App](https://github.com/Moslihbadr/crypto-app) by [Moslih Badr](https://github.com/Moslihbadr). This project provides the foundation for cryptocurrency-related features in my app. 
-
-### License
-The Crypto App is open-source and distributed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
