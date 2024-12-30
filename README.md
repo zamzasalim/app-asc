@@ -1,4 +1,4 @@
-# Crypto App 2.0
+# Crypto App ASC 2.0
 
 This is a simple React-based Crypto App that allows you to view and search for information on the top 100 cryptocurrencies. The app provides various functionalities, including listing the first 100 coins, searching for specific coins, refreshing the data without reloading the page, and displaying detailed information for each coin.
 
