@@ -60,7 +60,7 @@ The Crypto App is built using the following technologies:
 - SweetAlert2: A JavaScript library for creating beautiful, responsive, and customizable alert dialogs.
 
 ### Live View
-Build for Test Deployment on [Arlink](https://arlink.arweave.net)  & Visit the [Live View](https://ascapp_arlink.arweave.net/) to see the app in action.
+Build for Test Deployment on [Arlink](https://arlink.arweave.net).
 
 ### Usage
 1. Home Page:
