@@ -1,8 +1,8 @@
-## Crypto App ASC 2.0
+## Crypto App 2.0
 
 This is a simple React-based Crypto App that allows you to view and search for information on the top 100 cryptocurrencies. The app provides various functionalities, including listing the first 100 coins, searching for specific coins, refreshing the data without reloading the page, and displaying detailed information for each coin.
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<REPO_ID>)
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/c9aaf087-e850-4a5d-b691-720f3958ec6a)
 
 ### Table of Contents
 
@@ -13,30 +13,32 @@ This is a simple React-based Crypto App that allows you to view and search for i
 - [Usage](#usage)
 - [Powered By](#powered-by)
 - [Credit](#credit)
+- [License](#license)
 
 ### Getting Started
+
 To get started with the Crypto App, follow these instructions:
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/zamzasalim/slp-app.git
+git clone https://github.com/hanifdamarjati20/crypto-app-2
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd slp-app
+cd crypto-app-2
 ```
 
 3. Install the required dependencies:
-
+   
 ```
 npm install
 ```
 
 4. Start the development server:
-   
+
 ```
 npm start
 ```
@@ -44,6 +46,7 @@ npm start
 Once the server is up and running, you can access the app by visiting [http://localhost:3000](http://localhost:3000) in your web browser.
 
 ### Features
+
 - View the top 100 cryptocurrencies in descending order of market capitalization.
 - Search for specific coins using the search bar.
 - Refresh the data to get up-to-date information without reloading the page.
@@ -64,17 +67,25 @@ Build for Test Deployment on [Arlink](https://arlink.arweave.net).
 
 ### Usage
 1. Home Page:
+
 - The home page displays the top 100 cryptocurrencies in descending order of market capitalization.
 - Use the search bar to search for specific coins by name or symbol.
 - Click on the refresh button to update the data without reloading the page.
-
+  
 2. Coin Details Page:
+
 - The details page displays the coin's current price, market capitalization, 24-hour price change percentage, 1-hour price change percentage, 7-day price change percentage, 14-day price change percentage, 30-day price change percentage, and 1-year price change percentage.
 - The coin details page also includes the 24-hour high, 24-hour low, market cap, circulating supply, and a description of the coin.
 
 ### Powered By
+
 The Crypto App is powered by the CoinGecko API, which provides the latest cryptocurrency data and market information.
 
 ### Credit
+
 This project was inspired based on
-[Crypto App](https://github.com/Moslihbadr/crypto-app) & rebuilt with ♡ by hnfdm. This project provides the foundation for cryptocurrency-related features in my app. 
+[Crypto App](https://github.com/Moslihbadr/crypto-app). This project provides the foundation for cryptocurrency-related features in my app. 
+
+### License
+
+The Crypto App is open-source and distributed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
