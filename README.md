@@ -22,7 +22,7 @@ To get started with the Crypto App, follow these instructions:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/hanifdamarjati20/crypto-app-2
+git clone https://github.com/zamzasalim/app-asc.git
 ```
 
 2. Change into the project directory:
@@ -63,7 +63,7 @@ The Crypto App is built using the following technologies:
 - SweetAlert2: A JavaScript library for creating beautiful, responsive, and customizable alert dialogs.
 
 ### Live View
-Build for Test Deployment on [Arlink](https://arlink.arweave.net).
+Build for Test Deployment on [Arlink](https://ascapp_arlink.arweave.net/).
 
 ### Usage
 1. Home Page:
